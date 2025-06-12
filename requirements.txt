@@ -29,7 +29,6 @@ numpy==2.3.0
 packaging==24.2
 pandas==2.3.0
 pillow==11.2.1
-pip==24.2
 protobuf==6.31.1
 pyarrow==20.0.0
 PyAudio==0.2.14
